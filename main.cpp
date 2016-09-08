@@ -1,4 +1,4 @@
-//
+// lab 1
 //  main.cpp
 //  comp 215
 //
